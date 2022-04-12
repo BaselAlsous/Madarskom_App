@@ -25,6 +25,7 @@ import 'Views/Category/Schools.dart';
 
 
 void main() {
+  // Hello World
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
